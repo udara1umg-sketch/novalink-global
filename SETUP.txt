@@ -1,0 +1,8 @@
+NOVALINK GLOBAL V4 SETUP
+
+1. Upload all files to the root of the GitHub repository and keep index.html as the homepage.
+2. REAL ENQUIRIES: create a form endpoint (e.g. Formspree or another form backend) and replace YOUR_FORM_ID in contact.html. GitHub Pages itself does not process server-side forms.
+3. GOOGLE ANALYTICS: create a GA4 web data stream and paste the Google tag into every page before </head>. Measurement ID looks like G-XXXXXXXXXX.
+4. GOOGLE SEARCH CONSOLE: add the Domain property novalinkglobal.lk and verify by DNS. Then submit https://www.novalinkglobal.lk/sitemap.xml.
+5. PROFESSIONAL EMAIL: choose an email provider and add its MX/SPF/DKIM records at the domain DNS manager. Do not remove GitHub Pages A/CNAME records.
+6. E-COMMERCE: this version provides the catalogue and enquiry foundation. A real checkout/payment system requires a backend/payment provider and should be added only after product, shipping, tax and payment requirements are finalized.
