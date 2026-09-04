@@ -17,3 +17,6 @@ Product availability, specifications, certifications, quantities and pricing mus
 
 ## V8 interface
 The homepage follows the supplied NovaLink Global reference screenshot: large wordmark, slim green topbar, clean white navigation, scenic Sri Lankan agriculture hero, five gateway cards, four What We Do cards, impact strip, featured products and CTA. Product cards use real hosted photographs from Unsplash URLs; replace with your own verified product photography when available.
+
+
+V10: Product photographs are embedded in product-images.js, so no images folder is required.
