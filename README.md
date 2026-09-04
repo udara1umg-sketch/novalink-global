@@ -1,25 +1,7 @@
-# NovaLink Global V7
+NovaLink Global V12 — 11-page responsive corporate website.
 
-GitHub Pages-ready website for NovaLink Global (Private) Limited.
+Pages: Home, About, Agribusiness, Consultancy, Digital Solutions, Products, Shop, Projects, Contact, Privacy, Terms.
 
-## Focus
-- Agribusiness and farm solutions
-- Project and business support
-- Digital solutions
-- Sri Lankan product sourcing and trade enquiries
+Upload ALL files in this package to the ROOT of the GitHub Pages repository. The 24 product photographs are also in the ROOT as .jfif files, so no images folder is required.
 
-## Deploy
-Keep the root-level `CNAME` file. Upload the website files to the repository root and use GitHub Pages from the `main` branch.
-
-## Important
-Product availability, specifications, certifications, quantities and pricing must be confirmed per enquiry. Images are used as illustrative catalogue visuals and should be replaced with your own verified product photographs when available.
-
-
-## V8 interface
-The homepage follows the supplied NovaLink Global reference screenshot: large wordmark, slim green topbar, clean white navigation, scenic Sri Lankan agriculture hero, five gateway cards, four What We Do cards, impact strip, featured products and CTA. Product cards use real hosted photographs from Unsplash URLs; replace with your own verified product photography when available.
-
-
-V10: Product photographs are embedded in product-images.js, so no images folder is required.
-
-
-V11 correction: product images are stored in the repository root (no images folder required). Header and hero layout were made responsive to prevent horizontal overflow on 1350px/desktop screens.
+The About page includes the requested Our Team section using one named founder card plus role-based team cards; replace role cards with approved staff names/photos when available.
