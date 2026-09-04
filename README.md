@@ -20,3 +20,6 @@ The homepage follows the supplied NovaLink Global reference screenshot: large wo
 
 
 V10: Product photographs are embedded in product-images.js, so no images folder is required.
+
+
+V11 correction: product images are stored in the repository root (no images folder required). Header and hero layout were made responsive to prevent horizontal overflow on 1350px/desktop screens.
