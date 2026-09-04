@@ -1,0 +1,36 @@
+NOVALINK GLOBAL V8 - PRODUCT IMAGE GUIDE
+
+The uploaded real product photographs are stored in /images/ and linked locally from products.html and shop.html.
+
+Images added from the user's uploads:
+Ceylon Cinnamon -> images/cinnamon.jfif
+Cloves -> images/cloves.jfif
+Nutmeg -> images/nutmeg.jfif
+Mace -> images/mace.jfif
+Coriander Seeds -> images/coriander-seeds.jfif
+Cumin Seeds -> images/cumin-seeds.jfif
+Fennel Seeds -> images/fennel-seeds.jfif
+Fenugreek Seeds -> images/fenugreek-seeds.jfif
+Mustard Seeds -> images/mustard-seeds.jfif
+White Pepper -> images/white-pepper.jfif
+Curry Leaves -> images/curry-leaves.jfif
+Pandanus Leaves -> images/pandanus-leaves.jfif
+Lemongrass -> images/lemongrass.jfif
+Ginger -> images/ginger.jfif
+Dried Red Chilies -> images/dried-red-chilies.jfif
+Chili Powder -> images/chili-powder.jfif
+Turmeric Powder -> images/turmeric-powder.jfif
+Goraka -> images/goraka.jfif
+Maldive Fish -> images/maldive-fish.jfif
+Coconut Oil -> images/coconut-oil.jfif
+
+Still needed for the complete 24-product catalogue:
+Black Pepper
+Cardamom
+Garlic
+Tamarind
+
+When those four real photographs are supplied, save them in /images/ and change their product image src in products.html and shop.html to the corresponding local filename.
+
+
+Final 4 uploaded photos added: Cardamom, Black Pepper, Tamarind, Garlic. All 24 product entries now have local image files.
